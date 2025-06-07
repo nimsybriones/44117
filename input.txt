@@ -1,0 +1,8 @@
+int suma(int a, int b) {
+  return a + b;
+};
+
+float doble(float x) {
+  return x * 2;
+};
+

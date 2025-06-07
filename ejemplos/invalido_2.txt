@@ -1,0 +1,3 @@
+double errorTipo(double x) {
+  return x;
+};
